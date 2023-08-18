@@ -16,13 +16,8 @@ __Capstone-2: LPU | CAP347 CARGC0019__
   * [Screenshots](#screenshots)
   * [Technical Aspect](#technical-aspect)
   * [Team](#team)
-  * [License](#license)
   
 
-  • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, BOOTSTRAP, ML, DL___ on ___github.io___ platform.
-  
-  
-![Deep-Learning-vs-Machine-Learning](https://user-images.githubusercontent.com/62024355/120758532-95a9cc80-c52f-11eb-9e5f-2255cd9b8a6c.jpg)
 
   
 ## Problem Statment
