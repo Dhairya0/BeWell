@@ -145,5 +145,5 @@ __Links for Python Notebooks used for model creation__
 * [Liver Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Liver_Disease_Prediction.ipynb)
 
 Contributors: 
-[Krupal Parmar](https://github.com/krupalparmar7)
+[Krupal Parmar](https://github.com/krupalparmar7),
 [Dhairya Gajjar](https://github.com/Dhairya0)
