@@ -136,6 +136,10 @@ All the datasets were used from kaggle.
 * [Malaria Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 * [Pneumonia Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
+Contributors: 
+[Krupal Parmar](https://github.com/krupalparmar7)
+[Dhairya Gajjar](https://github.com/Dhairya0)
+
 __Links for Python Notebooks used for model creation__
 * [Diabetes Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Diabetes_Prediction.ipynb)
 * [Breast Cancer Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Cancer_Prediction.ipynb)
